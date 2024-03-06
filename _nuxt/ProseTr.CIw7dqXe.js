@@ -1,1 +1,0 @@
-import{k as t,b as n,c as a,a5 as c}from"./entry.DMx0gsec.js";const o={};function r(e,s){return n(),a("tr",null,[c(e.$slots,"default",{},void 0,!0)])}const d=t(o,[["render",r],["__scopeId","data-v-a0e7c17a"]]);export{d as default};
